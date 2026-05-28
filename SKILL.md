@@ -54,6 +54,14 @@ Use the results to:
   `WebSearch: "NSE results calendar this week"` and
   `WebSearch: "<Company> board meeting date"`.
 
+**Calibrate durability with `references/sentiment_patterns.md`.** Read it to judge
+whether a catalyst is a lasting signal or a one-day blip, e.g.: earnings *beat +
+raised guidance* sustains for quarters while a market-wide gap mean-reverts; an
+*earnings miss + cut* typically gaps down 5-15% over days (durable AVOID); *fraud /
+governance* events derate permanently; *crude > $90* hurts airlines/OMCs but helps
+ONGC; and roughly *60-80% of a news move happens on Day 1* — so a 3-day-old headline
+is largely priced in. Use these to rank AVOID/BUY conviction, not just sentiment sign.
+
 ### Step 3 — Write the report (RED FLAGS FIRST)
 
 Always present the bear case / red flags **before** the bull case. Order the report:
